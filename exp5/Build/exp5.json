@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "web_exp5",
+"dataUrl": "exp5.data.unityweb",
+"wasmCodeUrl": "exp5.wasm.code.unityweb",
+"wasmFrameworkUrl": "exp5.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
